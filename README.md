@@ -1,5 +1,5 @@
 # odin-recipes
-In project I created a website with recipes
+In this project I created a website with recipes
 
 It consist links to a few recipes and was done as a practice project 
 

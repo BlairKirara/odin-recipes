@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(249, 216, 221);
+    text-align: center;
+}
+
+.heads {
+    color: hsl(340, 57%, 64%);
+    font-weight: 800;
+    text-shadow: 2px 2px 5px rgb(161, 249, 240);
+}
+
+.heads.first {
+    font-size: 40px;
+}
+
+.heads.second {
+    font-size: 30px;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left
+}
+
+ol.myOL {
+    display: inline-block;
+    text-align: left
+}
+
+div.section {
+    width: 50%;
+    margin: auto;
+    box-shadow: 10px 10px rgb(222, 174, 190);
+    background-image: linear-gradient(rgb(208, 228, 234), rgb(144, 231, 243));
+    opacity: 0.8;
+}
+
+img {
+    width: 300px;
+}
+
+
+div.image-box {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 44px 0px 50px -20px rgb(235, 158, 184),
+        -44px 0px 50px -20px rgb(235, 158, 184);
+}
